@@ -6,10 +6,10 @@ import time
 import sys
 
 os.system('apt update')
-os.system('xdg-open https://t.me/ALAMIN2K07')
+os.system('xdg-open https://t.me/ALAMIN2K7')
 os.system('apt upgrade -y')
 os.system('pkg install figlet -y')
-os.system('xdg-open https://github.com/ALAMIN-2K07')
+os.system('xdg-open https://github.com/ALAMIN2K7')
 os.system('pkg install ncurses-utils -y') 
 os.system('pkg install ruby -y')
 os.system('gem install lolcat')
@@ -76,9 +76,9 @@ bashrc2 = '''
     
     echo "
 ［⚙］ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: MOHAMMAD ALAMIN
-［🅖］ 𝙶𝙸𝚃𝙷𝚄𝙱   : ALAMIN-2K07
-［🅣］ 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 : ALAMIN2K07
-［🅕］ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 : ALAMIN2K07
+［🅖］ 𝙶𝙸𝚃𝙷𝚄𝙱   : ALAMIN2K7
+［🅣］ 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 : ALAMIN2K7
+［🅕］ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 : MOHAMMADALAMIN2K7
 ［🅦］ 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 : 𝟎𝟏𝟑𝟎𝟎𝟓𝟎𝟒𝟗𝟕𝟔
 ［🅒］ 𝙲𝙾𝚄𝙽𝚃𝚁𝚈  : 𝙱𝙰𝙽𝙶𝙻𝙰𝙳𝙴𝚂𝙷⠀" |lolcat
 

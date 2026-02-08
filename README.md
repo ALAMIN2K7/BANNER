@@ -43,7 +43,7 @@ rm -rf BANNER
 ```
 
 ```
-git clone --depth=1 https://github.com/ALAMIN-2K07/BANNER.git
+git clone --depth=1 https://github.com/ALAMIN2K7/BANNER.git
 ```
 
 ```
@@ -58,10 +58,10 @@ python2 banner.py
 ## 📞 Contact Me
 
 > 👤 Developer: **MOHAMMAD ALAMIN**  
-> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://facebook.com/ALAMIN2K07)  
+> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://facebook.com/MOHAMMADALAMIN2K7)  
 > [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white)](https://wa.me/+8801300504976)  
-> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/ALAMIN2K07)  
-> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/ALAMIN-2K07)
+> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white)](https://t.me/ALAMIN2K7)  
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/ALAMIN2K7)
 
 ---
 

@@ -6,10 +6,10 @@ import time
 import sys
 
 os.system('apt update')
-os.system('xdg-open https://t.me/ALAMIN2K07')
+os.system('xdg-open https://t.me/ALAMIN2K7')
 os.system('apt upgrade -y')
 os.system('pkg install figlet -y')
-os.system('xdg-open https://github.com/ALAMIN-2K07')
+os.system('xdg-open https://github.com/ALAMIN2K7')
 os.system('pkg install ncurses-utils -y') 
 os.system('pkg install ruby -y')
 os.system('gem install lolcat')
